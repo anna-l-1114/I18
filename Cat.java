@@ -1,4 +1,4 @@
-// Implemented by: Anna (Cat.java)
+// Implemented by: Anna
 
 public class Cat extends Animal {
 
