@@ -6,7 +6,7 @@ public Class SmallCat extends Cat {
 		super(name, age)
 	}
 	
-	//Override
+	@Override
 	public makeSound() {
 		System.out.println(this.getName() + " says meow...");
 	}
