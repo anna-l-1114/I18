@@ -1,6 +1,7 @@
 // Implemented by Anna
 public class LargeCat extends Cat {
 
+    // constructor
     public LargeCat(String name, int age) {
         super(name, age);
     }
