@@ -1,4 +1,4 @@
-// Implemented by: Youssef Bey
+// Implemented by: Youssef Bey (SmallDog.java)
 public class SmallDog extends Dog {
 
     // constructor

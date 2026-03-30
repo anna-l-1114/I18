@@ -1,4 +1,4 @@
-// Implemented by Anna
+// Implemented by: Anna (LargeCat.java)
 public class LargeCat extends Cat {
 
     // constructor

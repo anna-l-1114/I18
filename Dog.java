@@ -1,4 +1,4 @@
-// implemented by Colby
+// Implemented by: Colby (Dog.java)
 
 public class Dog extends Animal {
     
