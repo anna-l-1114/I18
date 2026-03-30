@@ -1,13 +1,12 @@
-//Implemented by Colby
-public Class SmallCat extends Cat {
-	
-	//Uses superclass constructor
+// Implemented by: Colby
+public class SmallCat extends Cat {
+
 	public SmallCat(String name, int age) {
-		super(name, age)
+		super(name, age);
 	}
-	
+
 	@Override
-	public makeSound() {
+	public void makeSound() {
 		System.out.println(this.getName() + " says meow...");
 	}
 }
