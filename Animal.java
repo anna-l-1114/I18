@@ -1,4 +1,4 @@
-// Implemented by: Youssef Bey (Animal.java)
+// Implemented by Youssef Bey
 public abstract class Animal{
     private String name;
     private int age;

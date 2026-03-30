@@ -1,4 +1,4 @@
-// Implemented by: Colby
+// Implemented by Colby
 public class SmallCat extends Cat {
 
 	public SmallCat(String name, int age) {

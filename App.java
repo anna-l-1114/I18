@@ -1,4 +1,4 @@
-// Implemented by: Youssef Bey (App.java)
+// Implemented by Youssef Bey
 public class App {
     public static void main(String[] args) throws Exception {
         Cat cat = new Cat("Whiskers", 3);
